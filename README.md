@@ -6,7 +6,7 @@ This project focuses on developing a machine learning-based object detection sys
 
 The main goal of this project was to explore the application of machine learning algorithms in video analysis, emphasizing object detection and tracking for real-world use cases such as surveillance, crowd monitoring, and automated analytics.
 
-##Dataset
+## Dataset
 
 Dataset size: 4,000 images
 Content: Images containing one or more people in various settings
