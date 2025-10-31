@@ -9,10 +9,14 @@ The main goal of this project was to explore the application of machine learning
 ## Dataset
 
 Dataset size: 4,000 images
+
 Content: Images containing one or more people in various settings
+
 Source: Collected and preprocessed for use in object detection tasks
 **Preprocessing steps:**
+
 Image resizing and normalization
+
 Train-test split (80/20 ratio)
 
 ## Technologies Used
