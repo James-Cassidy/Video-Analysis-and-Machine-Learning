@@ -13,7 +13,7 @@ Dataset size: 4,000 images
 Content: Images containing one or more people in various settings
 
 Source: Collected and preprocessed for use in object detection tasks
-**Preprocessing steps:**
+### **Preprocessing steps:**
 
 Image resizing and normalization
 
